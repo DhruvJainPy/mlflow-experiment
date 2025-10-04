@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dhruv/Desktop/Dhruv/DAIICT/MLOps_Project/notebooks/mlruns/0/674aad53706e4f608b1b1537ef7de892/artifacts
+end_time: 1759532714024
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 674aad53706e4f608b1b1537ef7de892
+run_name: RandomForest_Baseline_TrainTestSplit
+run_uuid: 674aad53706e4f608b1b1537ef7de892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759532669503
+status: 4
+tags: []
+user_id: dhruv
